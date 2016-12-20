@@ -1,2 +1,3 @@
 Git
 add marge diff to index
+pull リモートリポジトリの内容を取得する
